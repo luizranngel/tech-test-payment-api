@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6nCteVKHKSH1Sqs06yaJ2eVrm1mEMryHk9zNuKes3EQ=",
+  "Source": "tech-test",
+  "BasePath": "_content/tech-test",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
